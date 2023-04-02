@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tests"
+        android:title="tests"
+        android:icon="@drawable/lists_foreground" />
+    <item
+        android:id="@+id/history"
+        android:title="history"
+        android:icon="@drawable/history_foreground" />
+    <item
+        android:id="@+id/about"
+        android:title="about"
+        android:icon="@drawable/about_foreground" />
+</menu>
